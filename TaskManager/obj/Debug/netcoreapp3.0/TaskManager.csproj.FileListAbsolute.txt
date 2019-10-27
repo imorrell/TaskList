@@ -1,0 +1,11 @@
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.exe
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.deps.json
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.runtimeconfig.json
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.runtimeconfig.dev.json
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.dll
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.pdb
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.csprojAssemblyReference.cache
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.AssemblyInfo.cs
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.dll
+C:\Users\Prophesy\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.pdb
